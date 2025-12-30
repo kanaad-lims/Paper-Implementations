@@ -1,5 +1,5 @@
 ## Implementation of AlexNet architecture in PyTorch from scratch.
-## Dataset used: CIFAR-10.
+## Dataset used: Caltech101.
 
 import torch
 import torch.nn as nn
