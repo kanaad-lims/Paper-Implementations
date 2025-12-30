@@ -1,4 +1,4 @@
-# AlexNet Implementation in PyTorch — Learner-Oriented Documentation
+# AlexNet Implementation in PyTorch
 
 This document explains the **AlexNet architecture implementation from scratch in PyTorch**. The explanation is structured for **learners** and focuses on understanding each component and design decision.
 
