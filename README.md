@@ -3,3 +3,4 @@ This repository contains from-scratch implementations of foundational and state-
 
 ## Contents:
 - [LeNet-5](https://github.com/kanaad-lims/Paper-Implementations/tree/main/LeNet-5)
+- [AlexNet](https://github.com/kanaad-lims/Paper-Implementations/tree/main/AlexNet)
