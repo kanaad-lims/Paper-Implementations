@@ -10,6 +10,7 @@ import torch.optim as optim
 from torch.utils.data import DataLoader
 import numpy as np
 import matplotlib.pyplot as plt
+from transform_inspector import inspect_transforms
 
 #Device config.
 device = torch.device('cuda' if torch.cuda.is_available() else "cpu")
